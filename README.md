@@ -1,7 +1,7 @@
 # 💫 Welcome to my GitHub profile! 💫
 ## Hello, I'm Eya Ridene 4th year student at INSAT! 👋
 
-## About Me
+## **About Me**
 
 Hey there! 👋 I'm Eya Ridene, a 22-year-old software engineering student at INSAT.
 
@@ -11,7 +11,7 @@ Hey there! 👋 I'm Eya Ridene, a 22-year-old software engineering student at IN
 
 🌱 Outside of coding, you can find me playing volleyball or listening to music.
 
-## Tech Stack
+## **Tech Stack**
 
 - ### **Programming Languages:** 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -38,7 +38,7 @@ Hey there! 👋 I'm Eya Ridene, a 22-year-old software engineering student at IN
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Neo4J](https://img.shields.io/badge/Neo4J-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
-## Contact Me
+## **Contact Me**
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eya-ridene/)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eya.ridene@insat.ucar.tn)
